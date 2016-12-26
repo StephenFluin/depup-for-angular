@@ -1,0 +1,25 @@
+{
+  "name": "depup",
+  "version": "0.0.2",
+  "description": "Update your dependencies to the latest and best Angular, according to Stephen Fluin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "depup": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenFluin/depup-for-angular.git"
+  },
+  "author": "Stephen Fluin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StephenFluin/depup-for-angular/issues"
+  },
+  "homepage": "https://github.com/StephenFluin/depup-for-angular#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
