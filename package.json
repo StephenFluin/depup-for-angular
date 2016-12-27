@@ -1,6 +1,6 @@
 {
   "name": "depup",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Update your dependencies to the latest and best Angular, according to Stephen Fluin",
   "main": "index.js",
   "scripts": {

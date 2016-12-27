@@ -26,3 +26,6 @@ depup -d 2.4.1
 Maybe someday it will detect which dependencies you may not really need, and not install them.
 
 Maybe someday it will help you make changes to your application when moving between versions.
+
+# Why doesn't this work and why is it so terrible?
+I'm sorry! File an issue then send a PR?
